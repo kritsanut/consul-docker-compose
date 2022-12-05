@@ -14,3 +14,4 @@ TL;DR:
 - $consul acl set-agent-token agent "7eb096e1-9c97-17dc-249b-1e187492c22f"
 7. Message ACL token "agent" set successfully when complete
 8. Enjoy your config Consul and enable ACL and login to UI http://localhost:8500/ui/dc1/acls/roles with token (7eb096e1-9c97-17dc-249b-1e187492c22f)
+![alt text](https://github.com/kritsanut/consul-docker-compose/blob/main/Screen%20Shot%202565-12-05%20at%2015.55.56.png)
