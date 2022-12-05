@@ -3,7 +3,7 @@ My inspire from https://developer.hashicorp.com/consul/tutorials/docker/docker-c
 
 ### TL;DR:
 1. Clone this repository
-2. This include 3 Servers and 1 Client
+2. This docker compose include 3 Servers and 1 Client
 3. Create the bootstrap token
 ```shell
 $docker exec -it consul-server1 /bin/sh
