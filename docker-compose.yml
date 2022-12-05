@@ -17,7 +17,6 @@ services:
       - "8500:8500"
       - "8600:8600/tcp"
       - "8600:8600/udp"
-    #command: bash -c "agent -bootstrap-expect=3 && consul acl bootstrap "
     command: "agent -bootstrap-expect=3"
 
 
